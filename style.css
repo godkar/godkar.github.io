@@ -1,8 +1,13 @@
 .main {
 font-family: Oswald;
 
-text-align: center;
-width: 100%;
-height: 500px;
-background-image: url("/bodynewfittness.png");
+  text-align: center;
+  width: 100%;
+  height: 500px;
+  background-image: url("/bodynewfittness.png");
+}
+
+h1 .container {
+  border-top: 300px;
+
 }
