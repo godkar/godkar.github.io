@@ -1,0 +1,32 @@
+
+
+body {
+  font-family: 'Oswald',sans seriff;
+  margin: 0;
+}
+
+.head {
+ text-align: center;
+ height: 100px;
+ width: 100%;
+ background-color: Grey;
+ color: White;
+ position: relative;
+}
+
+.head p {
+  font-size: 12px;
+}
+
+.main {
+  background-color: rgb(222,221,219);
+  
+}
+
+
+h1 {
+  clear: both;
+  display: in-block;
+  
+}
+
