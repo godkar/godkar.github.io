@@ -8,6 +8,7 @@ font-family: Oswald;
 }
 
 h1 .container {
-  border-top: 300px;
+  margin: 200px;
+  background-color: Gray;
 
 }
