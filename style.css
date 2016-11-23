@@ -20,7 +20,7 @@ p {
 /* Main */
 .main {
   text-align: center;
-  background: url("bodynewfitness.png") no-repeat center center;
+  background: url("/bodynewfitness.png") no-repeat center center;
   background-size: cover;
   height: 600px;
 }
